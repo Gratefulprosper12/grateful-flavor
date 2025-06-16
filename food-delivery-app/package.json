@@ -1,0 +1,13 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/index.js",
+    "client": "npm start --prefix client"
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.7"
+  }
+}

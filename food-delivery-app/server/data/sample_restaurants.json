@@ -1,0 +1,56 @@
+[
+  {
+    "name": "The Spice Villa",
+    "cuisine": "Indian",
+    "location": "Downtown",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 250,
+        "image": "https://source.unsplash.com/400x300/?paneer"
+      },
+      {
+        "name": "Butter Naan",
+        "price": 40,
+        "image": "https://source.unsplash.com/400x300/?naan"
+      }
+    ]
+  },
+  {
+    "name": "Bella Italia",
+    "cuisine": "Italian",
+    "location": "Midtown",
+    "rating": 4.7,
+    "menu": [
+      {
+        "name": "Margherita Pizza",
+        "price": 500,
+        "image": "https://source.unsplash.com/400x300/?pizza"
+      },
+      {
+        "name": "Pasta Alfredo",
+        "price": 400,
+        "image": "https://source.unsplash.com/400x300/?pasta"
+      }
+    ]
+  },
+  {
+    "name": "Sakura Sushi",
+    "cuisine": "Japanese",
+    "location": "Uptown",
+    "rating": 4.8,
+    "menu": [
+      {
+        "name": "Sushi Platter",
+        "price": 800,
+        "image": "https://source.unsplash.com/400x300/?sushi"
+      },
+      {
+        "name": "Miso Soup",
+        "price": 150,
+        "image": "https://source.unsplash.com/400x300/?soup"
+      }
+    ]
+  }
+]
